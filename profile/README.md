@@ -1,7 +1,7 @@
 ## This Repo is part of the TIFrific project for IPRO 497 at the Illinois Institute of Technology
 
 <div>
-  <img align="right" width="140" height="140" src="images/project_logo.png" alt="Logo">
+  <img align="right" width="140" height="140" src="project_logo.png" alt="Logo">
 </div>
 
 # Improving Chicago’s Fiscal Transparency By Extracting Historical Financial Data Through a Machine Learning Pipeline
